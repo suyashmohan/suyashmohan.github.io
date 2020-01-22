@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Farzi Coder</title>
+  
+  <subtitle>Adventures of a coder</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://farzicoder.com/"/>
+  <updated>2020-01-22T14:55:10.922Z</updated>
+  <id>http://farzicoder.com/</id>
+  
+  <author>
+    <name>Suyash Mohan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx Ingress setup for kubernetes</title>
+    <link href="http://farzicoder.com/Nginx-Ingress-setup-for-kubernetes/"/>
+    <id>http://farzicoder.com/Nginx-Ingress-setup-for-kubernetes/</id>
+    <published>2020-01-22T17:14:00.000Z</published>
+    <updated>2020-01-22T14:55:10.922Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Recently I decided to give Kubernetes a try. I was avoiding it just for the reason of writing several long YAML files. I know I am a lazy guy. But once you get used to writing Kubernetes code, you discover the power of it. You do have to write a docker-compose file in the world of Docker but I have found writing YAML for Kubernetes more tedious but it might be worth it once you understand what more you can do with Kubernetes.&lt;/p&gt;&lt;p&gt;Like everyone the first thing I learned in Kubernetes is to create a deployment that serves a website and created a service around it. The first question that came in my mind afterward is how I can host 2 websites and route the traffic to them based on hostnames. Traditionally you would install something like NGINX and configure it to serve different websites or forward the requests to some other service. We can still use Nginx to route our request in Kubernetes but in a different way, by using Ingress.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Kubernetes" scheme="http://farzicoder.com/categories/Kubernetes/"/>
+    
+    
+      <category term="Kubernetes" scheme="http://farzicoder.com/tags/Kubernetes/"/>
+    
+      <category term="Containers" scheme="http://farzicoder.com/tags/Containers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Writing your first Smart Contract using Solidity - Part 2 - Getting Started with Smart Contracts &amp; Blockchain</title>
+    <link href="http://farzicoder.com/Writing-your-First-Smart-Contract-using-Solidity-Part-2-Getting-Started-with-Smart-Contracts-Blockchain/"/>
+    <id>http://farzicoder.com/Writing-your-First-Smart-Contract-using-Solidity-Part-2-Getting-Started-with-Smart-Contracts-Blockchain/</id>
+    <published>2017-11-26T04:42:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/first_smart_contract.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;You can keep on reading theories and articles about Smart Contracts and Blockchain applications. But the real fun begins when we start writing the real code. Let’s start writing our first Smart Contract.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/categories/Blockchain/"/>
+    
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/tags/Blockchain/"/>
+    
+      <category term="Smart Contracts" scheme="http://farzicoder.com/tags/Smart-Contracts/"/>
+    
+      <category term="Ethereum" scheme="http://farzicoder.com/tags/Ethereum/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Setting up Geth, Mist &amp; TestRPC - Part 1 - Getting Started with Smart Contracts &amp; Blockchain</title>
+    <link href="http://farzicoder.com/Setting-up-Geth-Mist-TestRPC-Part-1-Getting-Start-with-Smart-Contracts/"/>
+    <id>http://farzicoder.com/Setting-up-Geth-Mist-TestRPC-Part-1-Getting-Start-with-Smart-Contracts/</id>
+    <published>2017-09-26T10:05:23.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Setting_up_geth_mist_testrpc.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;Once you have acquired yourself with basic knowledge of Blockchain, it’s time to move on towards actually using it. We are going to use Ethereum for understanding how to create and use Smart contracts. Like any environment, Ethereum also comes with its own tools. Mist and Geth are the two most important tools that you must be comfortable with. Let’s check them out.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/categories/Blockchain/"/>
+    
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/tags/Blockchain/"/>
+    
+      <category term="Smart Contracts" scheme="http://farzicoder.com/tags/Smart-Contracts/"/>
+    
+      <category term="Ethereum" scheme="http://farzicoder.com/tags/Ethereum/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Getting Started with Smart Contracts &amp; Blockchain - Part 0 Understanding Basics</title>
+    <link href="http://farzicoder.com/Getting-Started-with-Smart-Contracts-Blockchain-Part-0-Understanding-Basics/"/>
+    <id>http://farzicoder.com/Getting-Started-with-Smart-Contracts-Blockchain-Part-0-Understanding-Basics/</id>
+    <published>2017-09-12T09:51:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/Blockchain_Smart_Contracts.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;There are really low chances that you haven’t heard about Bitcoin. There have been numerous stories of people getting higher returns after they invested in it. Then there are people talking about how Bitcoin is revolutionizing financial domain. Some even worship Bitcoin and want to throw away Banks and Governments :P&lt;/p&gt;&lt;p&gt;I always thought Bitcoin just as a cryptocurrency, but never realized the power of underlying technology: Blockchain. Bitcoin became famous for using Blockchain. It’s this Blockchain that makes Bitcoin decentralized, secure and immutable. So what is a blockchain? Let’s find out.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/categories/Blockchain/"/>
+    
+    
+      <category term="Blockchain" scheme="http://farzicoder.com/tags/Blockchain/"/>
+    
+      <category term="Smart Contracts" scheme="http://farzicoder.com/tags/Smart-Contracts/"/>
+    
+      <category term="Ethereum" scheme="http://farzicoder.com/tags/Ethereum/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Callback Hell, Promises, Generators &amp; Async-Await in Node.js/Javascript</title>
+    <link href="http://farzicoder.com/Callback-Hell-Promises-generators-Async-Await-in-Node-js-Javascript/"/>
+    <id>http://farzicoder.com/Callback-Hell-Promises-generators-Async-Await-in-Node-js-Javascript/</id>
+    <published>2017-06-17T04:11:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;If you have ever worked with javascript even for few minutes, chances are you have already used callbacks. Callbacks are a great way to do asynchronous programming. Javascript/Node.js embraces it more than anything. They are everywhere. It might be fun to start with callbacks, but soon they become a hell.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Node.js" scheme="http://farzicoder.com/categories/Node-js/"/>
+    
+    
+      <category term="Node.js" scheme="http://farzicoder.com/tags/Node-js/"/>
+    
+      <category term="Javascript" scheme="http://farzicoder.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>util.promisify() in Node.js v8</title>
+    <link href="http://farzicoder.com/util-promisify-in-Node-js-v8/"/>
+    <id>http://farzicoder.com/util-promisify-in-Node-js-v8/</id>
+    <published>2017-06-06T16:33:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;If you have ever worked with Javascript you must have experienced callbacks. Javascript is known for its inbuilt asynchronous philosophy. From standard inbuilt modules to other frameworks and libraries, callbacks are everywhere. That’s how asynchronous programming is done in Javascript. But there is a dark side of Callbacks. It’s called &lt;a href=&quot;http://callbackhell.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Callback Hells&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Node.js" scheme="http://farzicoder.com/categories/Node-js/"/>
+    
+    
+      <category term="Node.js" scheme="http://farzicoder.com/tags/Node-js/"/>
+    
+      <category term="Javascript" scheme="http://farzicoder.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World in Node.js - Part 3 - Express.Js</title>
+    <link href="http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/"/>
+    <id>http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/</id>
+    <published>2017-06-05T15:54:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In &lt;a href=&quot;../Hello-World-in-Node-js-Part-1-Introduction/&quot;&gt;Part 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;../Hello-World-in-Node-js-Part-2-NPM/&quot;&gt;Part 2&lt;/a&gt;, we came to know how we can create a simple project in Node.js and print “Hello! World”. But that’s not much fun. Moreover, Node.js is famous for Server Side usage. Let’s see how we can produce Hello! World using HTTP server. A number of good frameworks are available in Node.js for web development. The most famous one and my favorite one is Express.js.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Node.js" scheme="http://farzicoder.com/categories/Node-js/"/>
+    
+    
+      <category term="Node.js" scheme="http://farzicoder.com/tags/Node-js/"/>
+    
+      <category term="Javascript" scheme="http://farzicoder.com/tags/Javascript/"/>
+    
+      <category term="Express.js" scheme="http://farzicoder.com/tags/Express-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World in Node.js - Part 2 - NPM</title>
+    <link href="http://farzicoder.com/Hello-World-in-Node-js-Part-2-NPM/"/>
+    <id>http://farzicoder.com/Hello-World-in-Node-js-Part-2-NPM/</id>
+    <published>2017-06-04T03:41:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Node.js comes with a helpful utility tool, Node.Js Package Manager(NPM). NPM is used to manage your dependencies. But NPM is not just for dependencies, it can be used to create and run custom commands against your project like testing, starting server, etc. You can also install other helpful tools and utility programs globally in your system.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Node.js" scheme="http://farzicoder.com/categories/Node-js/"/>
+    
+    
+      <category term="Node.js" scheme="http://farzicoder.com/tags/Node-js/"/>
+    
+      <category term="Javascript" scheme="http://farzicoder.com/tags/Javascript/"/>
+    
+      <category term="NPM" scheme="http://farzicoder.com/tags/NPM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World in Node.js - Part 1 - Introduction</title>
+    <link href="http://farzicoder.com/Hello-World-in-Node-js-Part-1-Introduction/"/>
+    <id>http://farzicoder.com/Hello-World-in-Node-js-Part-1-Introduction/</id>
+    <published>2017-06-03T19:52:00.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Node.js is a standalone implementation of Javascript using Google Chrome’s v8 engine. Although Node.js can be used in a lot of ways, Node.js has found a lot of popularity on the server side. Node.js has a great package manager called ‘Node Package Manager(NPM)’. The community has created countless libraries and frameworks, and all can be fetched through npm.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Node.js" scheme="http://farzicoder.com/categories/Node-js/"/>
+    
+    
+      <category term="Node.js" scheme="http://farzicoder.com/tags/Node-js/"/>
+    
+      <category term="Javascript" scheme="http://farzicoder.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to Farzi Coder</title>
+    <link href="http://farzicoder.com/Welcome-to-Farzi-Coder/"/>
+    <id>http://farzicoder.com/Welcome-to-Farzi-Coder/</id>
+    <published>2017-06-03T05:23:32.000Z</published>
+    <updated>2020-01-17T05:38:44.992Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Farzi Coder is an attempt to share my thoughts and knowledge as I continue on my journey to learn to code and be a better coder. Knowing how to code and to actually code are two different things. I have believed so many times that I know a particular technology. But when I actually did it, I realize I knew nothing about it. Hence I can say, knowing something might not mean you can do it. But If you do, then you will know it for sure. Farzi Coder is such an attempt. To go out in the wild and try things. And share my experiences with the world with the hope that it might be helpful to others.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Thoughts" scheme="http://farzicoder.com/categories/Thoughts/"/>
+    
+    
+      <category term="Thoughts" scheme="http://farzicoder.com/tags/Thoughts/"/>
+    
+  </entry>
+  
+</feed>
