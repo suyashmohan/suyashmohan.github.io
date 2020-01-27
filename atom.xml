@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://farzicoder.com/"/>
-  <updated>2020-01-22T14:55:10.922Z</updated>
+  <updated>2020-01-27T02:34:30.231Z</updated>
   <id>http://farzicoder.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Setup Databases like PostgreSQL inside Kubernetes cluster</title>
+    <link href="http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/"/>
+    <id>http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/</id>
+    <published>2020-01-27T05:00:00.000Z</published>
+    <updated>2020-01-27T02:34:30.231Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Kubernetes is getting a lot of traction in the world of DevOps for hosting stateless microservices. But what about Stateful applications 
+      
+    
+    </summary>
+    
+      <category term="Kubernetes" scheme="http://farzicoder.com/categories/Kubernetes/"/>
+    
+    
+      <category term="Kubernetes" scheme="http://farzicoder.com/tags/Kubernetes/"/>
+    
+      <category term="Containers" scheme="http://farzicoder.com/tags/Containers/"/>
+    
+      <category term="Postgresql" scheme="http://farzicoder.com/tags/Postgresql/"/>
+    
+      <category term="Database" scheme="http://farzicoder.com/tags/Database/"/>
+    
+  </entry>
   
   <entry>
     <title>Nginx Ingress setup for kubernetes</title>
