@@ -44,13 +44,6 @@
     </url>
 
     <url>
-        <loc>http://farzicoder.com/tags/NPM/</loc>
-        <lastmod>2020-01-17T05:38:44.992Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://farzicoder.com/tags/Express-js/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,29 +51,36 @@
     </url>
 
     <url>
+        <loc>http://farzicoder.com/tags/NPM/</loc>
+        <lastmod>2020-01-17T05:38:44.992Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://farzicoder.com/tags/Kubernetes/</loc>
-        <lastmod>2020-01-27T02:34:30.231Z</lastmod>
+        <lastmod>2020-01-27T02:38:26.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://farzicoder.com/tags/Containers/</loc>
-        <lastmod>2020-01-27T02:34:30.231Z</lastmod>
+        <lastmod>2020-01-27T02:38:26.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://farzicoder.com/tags/Postgresql/</loc>
-        <lastmod>2020-01-27T02:34:30.231Z</lastmod>
+        <lastmod>2020-01-27T02:38:26.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://farzicoder.com/tags/Database/</loc>
-        <lastmod>2020-01-27T02:34:30.231Z</lastmod>
+        <lastmod>2020-01-27T02:38:26.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

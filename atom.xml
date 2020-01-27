@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://farzicoder.com/"/>
-  <updated>2020-01-27T02:34:30.231Z</updated>
+  <updated>2020-01-27T02:38:26.896Z</updated>
   <id>http://farzicoder.com/</id>
   
   <author>
@@ -21,14 +21,11 @@
     <link href="http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/"/>
     <id>http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/</id>
     <published>2020-01-27T05:00:00.000Z</published>
-    <updated>2020-01-27T02:34:30.231Z</updated>
+    <updated>2020-01-27T02:38:26.896Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Kubernetes is getting a lot of traction in the world of DevOps for hosting stateless microservices. But what about Stateful applications 
-      
+      &lt;p&gt;Kubernetes is getting a lot of traction in the world of DevOps for hosting stateless microservices. But what about Stateful applications like Databases? It’s been a topic of debate when it comes to hosting databases on Kubernetes or even docker for production environments. Thankfully Kubernetes does have a special resource that can be used for setting applications like Databases. I am talking about Statefulsets.&lt;/p&gt;&lt;p&gt;StatefulSets are like deployment resources but they are special in the sense that Kubernetes maintains a persistent identifier for the pods and hence these pods are not interchangeable. This helps when running stateful applications.&lt;/p&gt;&lt;p&gt;To learn more about this, we will set up a Postgres database inside Kubernetes. Although we are using Postgres the concepts and steps are the same for any databases like MySQL, etc.&lt;/p&gt;
     
     </summary>
     

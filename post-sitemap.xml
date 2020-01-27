@@ -8,7 +8,7 @@
 
     <url>
         <loc>http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/</loc>
-        <lastmod>2020-01-27T02:34:30.231Z</lastmod>
+        <lastmod>2020-01-27T02:38:26.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -39,6 +39,14 @@
     </url>
 
     <url>
+        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/</loc>
+        <lastmod>2020-01-17T05:38:44.992Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-1-Introduction/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,14 +56,6 @@
 
     <url>
         <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-2-NPM/</loc>
-        <lastmod>2020-01-17T05:38:44.992Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
