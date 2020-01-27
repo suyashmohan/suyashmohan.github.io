@@ -8,7 +8,7 @@
 
     <url>
         <loc>http://farzicoder.com/Setup-Databases-like-PostgreSQL-inside-Kubernetes-cluster/</loc>
-        <lastmod>2020-01-27T02:40:47.728Z</lastmod>
+        <lastmod>2020-01-27T02:41:52.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -47,7 +47,7 @@
     </url>
 
     <url>
-        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/</loc>
+        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-2-NPM/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -55,7 +55,7 @@
     </url>
 
     <url>
-        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-2-NPM/</loc>
+        <loc>http://farzicoder.com/Hello-World-in-Node-js-Part-3-Express-Js/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -79,7 +79,7 @@
     </url>
 
     <url>
-        <loc>http://farzicoder.com/Writing-your-First-Smart-Contract-using-Solidity-Part-2-Getting-Started-with-Smart-Contracts-Blockchain/</loc>
+        <loc>http://farzicoder.com/util-promisify-in-Node-js-v8/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -87,7 +87,7 @@
     </url>
 
     <url>
-        <loc>http://farzicoder.com/util-promisify-in-Node-js-v8/</loc>
+        <loc>http://farzicoder.com/Writing-your-First-Smart-Contract-using-Solidity-Part-2-Getting-Started-with-Smart-Contracts-Blockchain/</loc>
         <lastmod>2020-01-17T05:38:44.992Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
